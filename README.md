@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Covenantdtechguy
 - 👀 I’m interested in meeting new people
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on with expert
+- 💞️ I’m looking to collaborate on how to with expert
 - 📫 How to reach me ...
 
 <!---
